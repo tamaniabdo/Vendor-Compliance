@@ -22,6 +22,18 @@ React (Frontend)
 - Rules engine ensures compliance logic is centralized
 
 ---
+## Componenets
+Frontend (React): file upload form, result rendering
+Backend (Express): validation, hashing, parsing orchestration, response
+Database (Mongo): supplier docs + audit events + requirements
+Storage: local uploads now, S3 later
+Queue (later): Redis/BullMQ for async parse
+
+
+
+
+---
+
 
 ## Key Principle
 
